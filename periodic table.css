@@ -1,0 +1,99 @@
+body{
+    background-color: rgba(32, 25, 25, 0.745);
+    margin: 0px;
+    padding: 0px;
+}
+.table{
+    border: 0;
+    margin: 0;
+}
+.LightGreen{
+    background-color:#99E599;
+    color: Green;
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width:  67px;
+    height: 86px;
+}
+.lightpink{
+    background-color: #FFCCE5;
+    color: rgba(90, 0, 65, 0.466);
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width: 67px;
+    height: 86px;
+}
+.pink{
+    background-color: #FFCCB2;
+    color: brown;
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width: 67px;
+    height: 86px;
+}
+.lightyellow{
+    background-color: #FFE57F;
+    color:  rgba(0, 0, 0, 0.227);
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width: 67px;
+    height: 86px;
+}
+.Maroon{
+    background-color: #EA8350;
+    color: white;
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width: 67px;
+    height: 86px;
+}
+.Grey{
+    background-color: #CCCCCC;
+    color: grey;
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width: 67px;
+    height: 86px;
+}
+.purple{
+    background-color: #9E87BD;
+    color: rgb(72, 2, 72);
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width: 67px;
+    height: 86px;
+}
+.lightblue{
+    background-color:#B2CCFF;
+    color: blue;
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width: 67px;
+    height: 86px;
+}
+.randomcolor{
+    background-color:#CCCCCC;
+    color: blue;
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width: 67px;
+    height: 86px;
+}
+.randomcolor1{
+    background-color:#7FE5E5;
+    color: blue;
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;   
+    width: 67px;
+    height: 86px;
+}
